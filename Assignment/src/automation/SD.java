@@ -1,5 +1,5 @@
 package automation;
 
-public class Dsds {
+public class SD {
 
 }
